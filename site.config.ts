@@ -6,12 +6,12 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'f22db858c04645f0b2669fa5535df4e5?pvs=4',
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'cherries',
+  domain: 'https://highfalutin-coconut-a5e.notion.site/f22db858c04645f0b2669fa5535df4e5?pvs=4',
+  author: 'duantangshao',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
